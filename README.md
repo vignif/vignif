@@ -24,4 +24,4 @@ Find out more about me on my [website](https://www.francescovigni.com)
 ---
 #### Enjoy your journey
 
-![cat](https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif)
+![cat](https://media.giphy.com/media/dpSWp2VoeBtYc/giphy.gif)
