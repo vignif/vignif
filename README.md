@@ -4,9 +4,15 @@
 
 </div>
 
-
 ### :eu: MSCA Fellow - PhD student 
 
+- :nerd_face: I'm doing my PhD in the [perseo](https://www.perseo.eu) project based in the [PRISCALab](http://prisca.unina.it/home) (Universita' degli Studi di Napoli - Federico II)
+
+- :mag:   I'm exploring the social cues of robots to improve their interactions with humans
+
+- :notebook:  Affiliated with the Interdepartmental Center for Advances in Robotic Surgery ([ICAROS](https://www.icaros.unina.it/))
+
+Find out more about me on my [website](https://www.francescovigni.com)
 
 ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=vignif&show_icons=true)
 
