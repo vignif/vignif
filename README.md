@@ -1,10 +1,10 @@
 ## High-tech Artisan
 
-- Salsa dancer 🕺🏽
 - PhD in Information and Communication Technology for Health 🎓
 - Registered Information Engineer - Order of the Engineers of Forli' (Forli'-Cesena), Section A 🏛️
 - Interested in Robots, Humans, and the things around them ⛵️
-
+- Salsa dancer 🕺🏽
+  
 Find out more about me on my [website](https://www.francescovigni.com)
 
 ---
